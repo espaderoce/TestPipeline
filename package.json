@@ -1,0 +1,23 @@
+{
+  "name": "glworkflow",
+  "version": "1.0.0",
+  "description": "GitLab Flow",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/espaderoce/glworkflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/espaderoce/glworkflow/issues"
+  },
+  "homepage": "https://gitlab.com/espaderoce/glworkflow#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
